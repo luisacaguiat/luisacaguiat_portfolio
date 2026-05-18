@@ -171,7 +171,6 @@ section {
   height: 100%;
   object-fit: cover;
   display: block;
-  margin-top: 20px;
 }
 
 .home-content {
@@ -606,7 +605,11 @@ section {
 @media (max-width: 600px) {
 
   body {
-    padding-top: 120px;
+    padding-top: 95px;
+  }
+
+  header {
+    padding: 20px 3%;
   }
 
   section {
