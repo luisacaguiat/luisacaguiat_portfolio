@@ -137,7 +137,7 @@ section {
 /* ===== HOME ===== */
 
 .home {
-  min-height: 150vh;
+  min-height: 200vh;
 
   display: flex;
   align-items: center;
